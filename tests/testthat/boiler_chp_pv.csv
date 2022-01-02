@@ -1,0 +1,7 @@
+Project z,,,,,,,,,,,,,,
+Exportiert,21.12.2021,16:19,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Start,End,Photovoltaik,BHKW 1,BHKW 1,BHKW 1,Erdgaskessel,Erdgaskessel,Verluste Wärmespeicher (gesamt),Netzverluste,Wärmeabsatz,Strombedarf HZ,Exportiert Elektrizität,Stromaufnahme Elektrizität,
+,,Stromerzeugung,Brennstoffbedarf,Stromerzeugung,Wärmeerzeugung,Brennstoffbedarf,Wärmeerzeugung,Standort 1,Wärmebedarf,Wärmebedarf,Strombedarf,Spotmarkt,Spotmarkt,Wärme Speicherinhalt (Ende d. Zeitschritts)
+,,[MWh],[MWh],[MWh],[MWh],[MWh],[MWh],[MWh],[MWh],[MWh],[MWh],[MWh],[MWh], [MWh]
+01.01.2020,01.01.2021,"9,5520117","3485,1108","1247,8484","1963,7905","843,5029","759,16022","2,9502998",272,2448,"40,600002","1222,4409","5,6404634","0,085346177"

@@ -1,0 +1,7 @@
+Project name,,,,,,,,,,,,,
+Exportiert,21.12.2021,16:17,,,,,,,,,,,
+,,,,,,,,,,,,,
+Start,End,Photovoltaik,Pelletkessel 1,Pelletkessel 1,Pelletkessel 2,Pelletkessel 2,Verluste Wärmespeicher (gesamt),Netzverluste,Wärmeabsatz,Strombedarf HZ,Exportiert Elektrizität,Stromaufnahme Elektrizität,
+,,Stromerzeugung,Brennstoffbedarf,Wärmeerzeugung,Brennstoffbedarf,Wärmeerzeugung,Standort 1,Wärmebedarf,Wärmebedarf,Strombedarf,Spotmarkt,Spotmarkt,Wärme Speicherinhalt (Ende d. Zeitschritts)
+,,[MWh],[MWh],[MWh],[MWh],[MWh],[MWh],[MWh],[MWh],[MWh],[MWh],[MWh], [MWh]
+01.01.2020,01.01.2021,"9,5520117","2891,3651","2457,6604","302,58378","257,19622","3,4442145",272,2448,"40,600002","0,82843857","31,876427","0,1460074"

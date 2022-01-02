@@ -1,0 +1,25 @@
+Package: energypro
+Title: Converts Output from energyPRO to Tidy Tibbles
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Birger",
+           family = "Niklas", 
+           role = c("aut", "cre"),
+           email = "birger.niklas@posteo.de")
+Description: Converts output from energyPRO to tidy tibbles.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Imports:
+    assertthat,
+    dplyr,
+    magrittr,
+    purrr,
+    readr,
+    stringr,
+    tibble,
+    tidyr
+RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
