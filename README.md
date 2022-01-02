@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/BirgerNi/energypro/workflows/R-CMD-check/badge.svg)](https://github.com/BirgerNi/energypro/actions)
+[![lint](https://github.com/BirgerNi/energypro/workflows/lint/badge.svg)](https://github.com/BirgerNi/energypro/actions)
+[![test-coverage](https://github.com/BirgerNi/energypro/workflows/test-coverage/badge.svg)](https://github.com/BirgerNi/energypro/actions)
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
